@@ -165,7 +165,7 @@ local function CreateGUI(title)
     end)
     agreeButton.MouseButton1Click:Connect(function()
         AnimateExit()
-loadstring(game:HttpGet"https://raw.githubusercontent.com/THDZEP/duckweed-centerV2/main/%E6%B5%AE%E8%90%8D%E4%B8%AD%E5%BF%83-%E6%96%B0")()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/THDZEP/duckweed-centerV2/main/%E6%B5%AE%E8%90%8D%E4%B8%AD%E5%BF%83-%E6%94%B9-%E6%96%B0")()
     end)
 end
 local myTitle = "浮萍中心前言" 
