@@ -5873,7 +5873,7 @@ Tab:AddButton({
 
 local Tab = Window:MakeTab({
 
-	Name = "栏目有伤害（不翻译了）",	Icon = "rbxassetid://10483855823",
+	Name = "栏目有伤害",	Icon = "rbxassetid://10483855823",
 
 	PremiumOnly = false
 
