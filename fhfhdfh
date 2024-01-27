@@ -9561,7 +9561,7 @@ Creator.runEntity(entity)
 
 Tab:AddButton({
 
-    Name = "Ameyes--来自投稿",
+    Name = "Ameyes",
 
     Callback = function ()
 
@@ -11396,7 +11396,7 @@ Tab:AddButton({
 })
 
 local VisualsTab = Window:MakeTab({
-			Name = "功能",
+			Name = "透视",
 			Icon = "rbxassetid://4483345998",
 			PremiumOnly = false
 		})
