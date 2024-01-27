@@ -3854,14 +3854,13 @@ end
 -- Run the created entity
 
 Creator.runEntity(entity)
-
     end
 
 })
 
 Tab:AddButton({
 
-    Name = "Ameyes--来自投稿",
+    Name = "Ameyes",
 
     Callback = function ()
 
